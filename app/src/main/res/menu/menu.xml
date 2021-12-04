@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeNavigationFragment"
+        android:title="Home"
+        android:menuCategory="secondary"/>
+    <item
+        android:id="@+id/profileNavigationFragment"
+        android:title="Profile"
+        android:menuCategory="secondary"/>
+</menu>
